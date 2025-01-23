@@ -75,7 +75,7 @@ def ProductMatch(retailer):
         case "sephora":
             print("Retailer Found: Sephora")
             return True
-        case "ulta beauty":
+        case "ultabeauty":
             print("Retailer Found: Ulta Beauty")
             return True
         case "gamestop":
